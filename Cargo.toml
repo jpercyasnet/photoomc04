@@ -13,4 +13,3 @@ kamadak-exif = "^0"
 
 [dependencies.gtk]
 package = "gtk4"
-git = "https://github.com/gtk-rs/gtk4-rs"
